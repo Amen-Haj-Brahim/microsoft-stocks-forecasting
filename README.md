@@ -29,4 +29,3 @@ Models are evaluated on an 80-20 train-test split using:
 - Root Mean Squared Error (RMSE)
 
 ## Features : Date, Open, High, Low, Close, Volume
-"# microsoft-stocks-forecasting" 
